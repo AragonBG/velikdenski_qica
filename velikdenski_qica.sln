@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "velikdenski_qica", "velikdenski_qica.csproj", "{DC312B82-6BEF-49D6-962D-90FE9902F644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC312B82-6BEF-49D6-962D-90FE9902F644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC312B82-6BEF-49D6-962D-90FE9902F644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC312B82-6BEF-49D6-962D-90FE9902F644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC312B82-6BEF-49D6-962D-90FE9902F644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7546FA-306C-4EE4-81D8-398FC80EFCE5}
+	EndGlobalSection
+EndGlobal
